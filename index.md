@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-This is the where you'll find general information about the [Exospecies](www.exospecies.com) game.
+This is the where you'll find general information about the [Exospecies](https://www.exospecies.com) game.
 
 ## Topics
 
